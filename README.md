@@ -5,7 +5,7 @@ Hello, nice to see you.  👋
 
 <strong>My languages and Tools:</strong>
 
-<br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <a href="https://www.java.com/"><img src="icons/java.png" alt="Java" width="35" height="35"></a>
+<br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/testng-%23FF7300.svg?style=for-the-badge&logo=testng&logoColor=white)
@@ -15,6 +15,25 @@ Hello, nice to see you.  👋
 <br>![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+<h2>Tools</h2>
+<a href="https://www.java.com/"><img src="icons/java.png" alt="Java" width="35" height="35"></a>
+<a href="https://www.python.org/"><img src="icons/python.png" alt="Python" width="30" height="30"></a>
+<a href="https://www.selenium.dev/"><img src="icons/selenium.png" alt="Selenium" width="30" height="30"></a>
+<a href="https://git-scm.com/"><img src="icons/git.png" alt="Git" width="30" height="30"></a>
+<a href="https://www.jetbrains.com/ru-ru/idea/"><img src="icons/intellij.png" alt="IntelliJ" width="30" height="30"></a>
+<a href="https://www.jenkins.io/"><img src="icons/jenkins.png" alt="Jenkins" width="30" height="30"></a>
+<a href="https://www.jetbrains.com/ru-ru/pycharm/"><img src="icons/pycharm.png" alt="PyCharm" width="30" height="30"></a>
+<a href="https://www.mysql.com/"><img src="icons/sql.png" alt="SQL" width="30" height="30"></a>
+<a href="https://www.docker.com/"><img src="icons/docker.png" alt="Docker" width="35" height="35"></a>
+<a href="https://trello.com/"><img src="icons/trello.png" alt="Trello" width="30" height="30"></a>
+<a href="https://www.notion.so/"><img src="icons/notion.png" alt="Notion" width="30" height="30"></a>
+<a href="https://developer.chrome.com/docs/devtools"><img src="icons/devtools.png" alt="devTools" width="30" height="30"></a>
+<a href="https://allurereport.org/"><img src="icons/allure.png" alt="Allure" width="30" height="30"></a>
+<a href="https://www.javascript.com/"><img src="icons/javascript.png" alt="JavaScript" width="30" height="30"></a>
+<a href="https://www.postman.com/"><img src="icons/postman.png" alt="Postman" width="30" height="30"></a>
+<a href="https://www.soapui.org/"><img src="icons/soap.png" alt="SOAP UI" width="30" height="30"></a>
+<a href="https://miro.com/"><img src="icons/miro.png" alt="Miro" width="30" height="30"></a>
 
 
 <strong>My stats:<strong>
