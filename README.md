@@ -5,7 +5,7 @@ Hello, nice to see you.  👋
 
 <strong>My languages and Tools:</strong>
 
-<br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <a href="https://www.java.com/"><img src="icons/java.png" alt="Java" width="35" height="35"></a>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/testng-%23FF7300.svg?style=for-the-badge&logo=testng&logoColor=white)
