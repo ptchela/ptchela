@@ -3,7 +3,7 @@ Hello, nice to see you.  👋
 #### [**_I am QA Engineer_**]
 <br><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnd5dm40aTQ0eXdpYW42b3JmNG51dXloM3I1bXFlcno5ZGd0azk5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a9d3bbcM3ImXe/giphy.gif" width="150"/>
 
-<strong>My languages and Tools:</strong>
+<h2>My languages and Tools</h2>
 
 <br>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -15,8 +15,6 @@ Hello, nice to see you.  👋
 <br>![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-<h2>Tools</h2>
 <a href="https://www.java.com/"><img src="icons/java.png" alt="Java" width="35" height="35"></a>
 <a href="https://www.selenium.dev/"><img src="icons/selenium.png" alt="Selenium" width="30" height="30"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" alt="Git" width="30" height="30"></a>
