@@ -17,6 +17,7 @@ Hello, nice to see you.  👋
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Allure](https://img.shields.io/badge/allure-%23FFB900.svg?style=for-the-badge&logo=allure&logoColor=white)
 
 <a href="https://www.java.com/"><img src="icons/java.png" alt="Java" width="35" height="35"></a>
 <a href="https://www.selenium.dev/"><img src="icons/selenium.png" alt="Selenium" width="30" height="30"></a>
