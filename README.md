@@ -22,7 +22,6 @@ Hello, nice to see you.  👋
 <a href="https://git-scm.com/"><img src="icons/git.png" alt="Git" width="30" height="30"></a>
 <a href="https://www.jetbrains.com/ru-ru/idea/"><img src="icons/intellij.png" alt="IntelliJ" width="30" height="30"></a>
 <a href="https://www.mysql.com/"><img src="icons/sql.png" alt="SQL" width="30" height="30"></a>
-<a href="https://www.docker.com/"><img src="icons/docker.png" alt="Docker" width="35" height="35"></a>
 <a href="https://trello.com/"><img src="icons/trello.png" alt="Trello" width="30" height="30"></a>
 <a href="https://developer.chrome.com/docs/devtools"><img src="icons/devtools.png" alt="devTools" width="30" height="30"></a>
 <a href="https://allurereport.org/"><img src="icons/allure.png" alt="Allure" width="30" height="30"></a>
